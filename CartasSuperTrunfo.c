@@ -31,7 +31,7 @@ int main() {
   
     // Área para entrada de dados
     // dados da carta 1
-    printf("\n==================================\n");
+    printf("\n====================================\n");
     printf("**** Seja-bem vindo(a) ao JOGO! ****\n");
     printf("====================================\n");
     printf("\n");
@@ -124,6 +124,6 @@ int main() {
     printf("PIB per Capita: Carta 1 venceu (%d)\n", pib_per_capita1 > pib_per_capita2);
     printf("Super Poder: Carta 1 venceu (%d)\n", super_poder1 > super_poder2 );
     printf("\n");
-    
+
     return 0;
 }
